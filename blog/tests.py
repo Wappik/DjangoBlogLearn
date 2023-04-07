@@ -4,6 +4,7 @@ from django.urls import reverse
 
 from .models import Post
 
+
 class BlogTests(TestCase):
 
     def setUp(self):
